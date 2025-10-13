@@ -34,6 +34,7 @@ This project explores the root causes of profit leakage in a retail business, us
 
 ## Dashboard
 
+![Dashboard](Assets/Dashboard.png)
 
 ## Key Insights
 
