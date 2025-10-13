@@ -19,7 +19,7 @@ This project explores the root causes of profit leakage in a retail business, us
 - `Profitability_Analysis_Recovery_Initiative_Report.pdf`: Executive summary report
 - `Assets/`: Project visuals and charts
 
-## Quick Start
+## To Download
 
 1. **Clone the repository**
    ```bash
@@ -31,6 +31,9 @@ This project explores the root causes of profit leakage in a retail business, us
    jupyter notebook Profitability_Analysis_Recovery_Initiative.ipynb
    ```
 3. **Explore the findings and recommendations**
+
+## Dashboard
+
 
 ## Key Insights
 
